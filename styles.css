@@ -3,7 +3,3 @@
     justify-content: space-between;
     flex-wrap: wrap;
 }
-
-.item {
-    flex-shrink: 0;
-}
